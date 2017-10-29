@@ -1,0 +1,7 @@
+{
+  "name": "Polymer-Demo",
+  "short_name": "Polymer-Demo",
+  "description": "Homework 6",
+  "start_url": "/",
+  "display": "standalone"
+}
